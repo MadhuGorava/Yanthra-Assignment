@@ -136,3 +136,30 @@
   line-height: 16px;
   color: #ff0b37;
 }
+.btn-card {
+  display: flex;
+  margin-top: 10px;
+}
+.new-user {
+  color: #252525;
+  font-size: 15px;
+  font-family: 'San serif';
+  font-weight: 600;
+  background-color: transparent;
+  border-width: 0px;
+}
+.span-ele {
+  color: blue;
+  font-size: 15px;
+  font-family: 'San serif';
+  font-weight: 600;
+  cursor: pointer;
+  outline: none;
+  text-decoration: underline;
+}
+.nav-link {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #475569;
+}
